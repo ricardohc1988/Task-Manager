@@ -1,4 +1,4 @@
-# Task API
+# Task-Manager API
 
 A simple API built with **FastAPI** for managing tasks. It allows users to perform CRUD operations (Create, Read, Update, Delete) on tasks. The API is backed by **SQLAlchemy** for database management and **Pydantic** for data validation.
 
@@ -17,7 +17,7 @@ Follow these steps to install and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-api.git
+   git clone https://github.com/ricardohc1988/Task-Manager.git
    cd task-api
 
 2. **Create and activate a virtual environment:**
